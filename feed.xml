@@ -3,7 +3,7 @@
     <title>truc-tiep-bong-da</title>
     <link href="https://musi.fun/feed.xml" rel="self" />
     <link href="https://musi.fun" />
-    <updated>2018-06-02T21:47:57+03:00</updated>
+    <updated>2018-06-03T14:34:24+03:00</updated>
     <author>
         <name>Trực Tiếp Bóng Đá</name>
     </author>
@@ -17,12 +17,12 @@
         <link href="https://musi.fun/truc-tiep-kenh-1-copy-copy.html"/>
         <id>https://musi.fun/truc-tiep-kenh-1-copy-copy.html</id>
 
-        <updated>2018-06-02T21:46:41+03:00</updated>
+        <updated>2018-06-03T14:33:02+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://musi.fun/media/posts/26/channel4_01.gif" alt="" />
-                <p><iframe width="100%" height="100%" src="https://cdn.musi.fun/demos/multi.html#kenh4"></iframe></p>
+                <p><iframe width="900" height="600" frameborder="0" src="https://cdn.musi.fun/demos/multi.html#kenh4"></iframe></p>
             ]]>
         </content>
     </entry>
@@ -34,12 +34,12 @@
         <link href="https://musi.fun/truc-tiep-kenh-1-copy-2.html"/>
         <id>https://musi.fun/truc-tiep-kenh-1-copy-2.html</id>
 
-        <updated>2018-06-02T21:46:17+03:00</updated>
+        <updated>2018-06-03T14:32:43+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://musi.fun/media/posts/25/download.png" alt="" />
-                <p><iframe width="100%" height="100%" src="https://cdn.musi.fun/demos/multi.html#kenh3"></iframe></p>
+                <p><iframe width="900" height="600" frameborder="0" src="https://cdn.musi.fun/demos/multi.html#kenh3"></iframe></p>
             ]]>
         </content>
     </entry>
@@ -51,12 +51,12 @@
         <link href="https://musi.fun/truc-tiep-kenh-1-copy.html"/>
         <id>https://musi.fun/truc-tiep-kenh-1-copy.html</id>
 
-        <updated>2018-06-02T21:46:08+03:00</updated>
+        <updated>2018-06-03T14:32:19+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://musi.fun/media/posts/24/images.png" alt="" />
-                <p><iframe width="100%" height="100%" src="https://cdn.musi.fun/demos/multi.html#kenh2"></iframe></p>
+                <p><iframe width="900" height="700" frameborder="0" src="https://cdn.musi.fun/demos/multi.html#kenh2"></iframe></p>
             ]]>
         </content>
     </entry>
@@ -68,12 +68,12 @@
         <link href="https://musi.fun/truc-tiep-kenh-1.html"/>
         <id>https://musi.fun/truc-tiep-kenh-1.html</id>
 
-        <updated>2018-06-02T21:45:59+03:00</updated>
+        <updated>2018-06-03T14:31:38+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://musi.fun/media/posts/23/channel-one-logo_onair_r-555x370.png" alt="" />
-                <p><iframe width="100%" height="100%" src="https://cdn.musi.fun/demos/multi.html#kenh1"></iframe></p>
+                <p><iframe width="900" height="600" src="https://cdn.musi.fun/demos/multi.html#kenh1" frameborder="0"></iframe></p>
             ]]>
         </content>
     </entry>
