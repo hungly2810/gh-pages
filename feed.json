@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://musi.fun/truc-tiep-k1.html",
-            "url": "https://musi.fun/truc-tiep-k1.html",
-            "title": "Trực Tiếp K+1",
-            "content_html": "<p>LIVESTREAM K+: <a href=\"https://cdn.musi.fun/demos/multi.html#kplus\">K+1</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kpluspm\">K+PM</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kpluspc\">K+PC</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kplusns\">K+NS</a></p>\n<p>LIVESTREAM TIẾNG NGA</p>\n<p><a href=\"https://cdn.musi.fun/demos/multi.html#kenh1\" target=\"_blank\" rel=\"noopener noreferrer\">Kênh 1</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kenh2\" target=\"_blank\" rel=\"noopener noreferrer\">Kênh 2</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kenh3\" target=\"_blank\" rel=\"noopener noreferrer\">Kênh 3</a> | <a href=\"https://cdn.musi.fun/demos/multi.html#kenh4\" target=\"_blank\" rel=\"noopener noreferrer\">Kênh 4</a></p>\n<p><iframe width=\"900\" height=\"600\" src=\"https://cdn.musi.fun/demos/multi.html#kplus\" frameborder=\"0\"></iframe></p>",
-            "image": "https://musi.fun/media/posts/30/",
-            "author": {
-                "name": "Trực Tiếp Bóng Đá"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-06-10T23:24:46+03:00",
-            "date_modified": "2018-06-10T23:24:46+03:00"
-        },
-        {
             "id": "https://musi.fun/Anh-2-1-Nigeria-Nhung-ban-thang-quan-trong-tu-chien-thang-khoi-dong-World-Cup.html",
             "url": "https://musi.fun/Anh-2-1-Nigeria-Nhung-ban-thang-quan-trong-tu-chien-thang-khoi-dong-World-Cup.html",
             "title": "Anh 2-1 Nigeria: Những bàn thắng quan trọng từ chiến thắng khởi động World Cup",
@@ -148,6 +134,20 @@
             ],
             "date_published": "2018-05-31T23:32:37+03:00",
             "date_modified": "2018-06-01T18:26:24+03:00"
+        },
+        {
+            "id": "https://musi.fun/Chelsea-co-kha-nang-ban-duoc-Thibaut-Courtois-va-co-the-tham-gia-cuoc-dua-cho-Alisson-cua-Roma.html",
+            "url": "https://musi.fun/Chelsea-co-kha-nang-ban-duoc-Thibaut-Courtois-va-co-the-tham-gia-cuoc-dua-cho-Alisson-cua-Roma.html",
+            "title": "Chelsea có khả năng bán được Thibaut Courtois và có thể tham gia cuộc đua cho Alisson của Roma",
+            "content_html": "<p><img src=\"https://musi.fun/media/posts/17/skysports-thibaut-courtois-chelsea-football_3969300.jpg\" alt=\"\" width=\"768\" height=\"432\"></p>\n<p>Chelsea có khả năng bán được Thibaut Courtois và đang cân nhắc tham gia cuộc đua giành thủ thành Roma Alisson, theo Sky ở Italia.</p>\n<p>Tuyển thủ quốc tế Bỉ chỉ còn lại một năm trong hợp đồng hiện tại của mình và The Blues đã quyết định ngừng đàm phán về việc đổi mới.</p>\n<p>Courtois đã có 46 lần ra sân cho The Blues mùa trước nhưng họ đã bỏ lỡ vòng loại Champions League và tương lai của HLV Antonio Conte vẫn còn nghi ngờ vào mùa hè, với Maurizio Sarri liên kết với công việc .</p>\n<div class=\"article__misc-container\"> </div>\n<p>Thủ môn 26 tuổi dường như đã gia nhập một số cầu thủ đội đầu tiên mà tương lai cũng bị nghi ngờ, bao gồm Willian, người được biết muốn rời câu lạc bộ nếu Conte ở lại, với Manchester United quan tâm .</p>\n<p>Courtois gần đây đã gợi ý rằng tương lai của anh không chắc chắn khi anh nói \"chúng ta sẽ thấy điều gì sẽ xảy ra sau World Cup\", sau chiến thắng cúp FA của Chelsea tại Wembley.</p>\n<p><img src=\"https://musi.fun/media/posts/17/skysports-allison-roma-brazil-goalkeepe_4206202.jpg\" alt=\"\" width=\"768\" height=\"432\"></p>\n<p>Ngôi sao cũ của Atletico Madrid là một mục tiêu lâu dài cho các đối thủ của họ, trong khi Paris Saint-Germain cũng rất quan tâm, theo Guillem Balague.</p>\n<p>Alisson, trong khi đó, đã có một mùa giải xuất sắc tại Roma và đã là một mục tiêu cho Real Madrid và Liverpool .</p>",
+            "image": "https://musi.fun/media/posts/17/skysports-thibaut-courtois-chelsea-football_3969300.jpg",
+            "author": {
+                "name": "Trực Tiếp Bóng Đá"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-05-31T23:24:10+03:00",
+            "date_modified": "2018-05-31T23:24:10+03:00"
         }
     ]
 }
